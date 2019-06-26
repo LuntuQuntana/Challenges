@@ -1,0 +1,60 @@
+body {
+    font-family: Trebuchet MS, Verdana, MS Sans Serif;
+    font-size:0.9em;
+    margin:0;
+    padding:0;
+}
+.container{
+    width: 700px;
+    height: 100%;
+    margin-top: 100px;
+    margin-bottom : 100px;
+}
+
+img{
+    width: 120px;
+    height: 100px;
+    margin: 30px;
+}
+#Terms{
+    color: grey;
+    text-decoration: underline;
+}
+#Privacy{
+    color: grey;
+    text-decoration: underline;
+}
+
+#Cookie{
+    color: grey;
+    text-decoration: underline;
+}
+
+a{
+    color: grey;
+    text-decoration: underline;
+}
+
+#facebook{
+    border-radius: 100px;
+    width: 550px;
+}
+
+input{
+    width: 550px;
+    border-radius: 100px;
+}
+#apple{
+    width: 120px;
+    height: 60px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 2px rgba(40,40,40,0.6);
+}
+#play{
+     width: 100px;
+    height: 60px;
+     border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px 2px rgba(40,40,40,0.6);
+}
